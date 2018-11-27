@@ -2,8 +2,7 @@ package memcached
 
 import (
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/bradleypeabody/gorilla-sessions-memcache"
-	"github.com/gin-contrib/sessions"
+	"github.com/csxuejin/sessions"
 	gsessions "github.com/gorilla/sessions"
 )
 

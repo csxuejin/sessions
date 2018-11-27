@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/mongo"
+	"github.com/csxuejin/sessions"
+	"github.com/csxuejin/sessions/mongo"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2"
 )
